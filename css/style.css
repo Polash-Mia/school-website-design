@@ -1,0 +1,61 @@
+.full-page-bg{
+    background-image: url(../image/bg_main.gif);
+    background-repeat:no-repeat;
+/*     background-position:center; */
+    background-attachment:fixed;
+    background-size:cover;
+    /* height: 100vh; */
+
+}
+
+.middle-page-bg{
+    /* height: 900px; */
+    background-color: white;
+}
+
+.top-header{
+    /* background-color: #16d02f; */
+    background: linear-gradient(to left, #7d059a,#4a045b,#7d059a);
+}
+.notic-bg{
+    background-color: #1ca42e;
+}
+.website-bg-color{
+    background: linear-gradient(to left, #16d02f,#067711,#16d02f);
+}
+
+.icon-color{
+    color: #16d02f;
+}
+.site-text-color{
+    color: #16d02f;
+}
+
+.baner-image{
+    /* position: relative; */
+    z-index: 1;
+}
+.school{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+   
+    z-index: 2;
+    
+}
+
+.school-name-shadow{
+    text-shadow: black 4px 3px 3px ;
+}
+ul {
+    list-style-type: none;
+    line-height: 40px;
+    margin-left:-20px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+   
+}
