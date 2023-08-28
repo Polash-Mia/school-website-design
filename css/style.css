@@ -59,3 +59,92 @@ ul li a{
     color: black;
    
 }
+
+.up_arrow i{
+    font-size: 50px;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    color: #00acee;
+}
+
+.menu-1{
+    color: #84154D;
+    transition: .9s;
+}
+.menu-2{
+    color: #00acee;
+}
+.menu-3{
+    color: #84154D ;
+}
+.menu-4{
+    color: #8768dd;
+}
+.menu-5{
+    color: #098346;
+}
+.menu-6{
+    color: #84154D;
+}
+.menu-7{
+    color: #00acee;
+}
+.menu-8{
+    color: #098346;
+}
+.menu-9{
+    color: #84154D;
+}
+.menu-10{
+    color: #1399BE;
+}
+.menu-11{
+    color: rgb(245, 33, 33);
+}
+
+
+.menu-1:hover{
+    background-color: #84154D;
+    color: white;
+}
+.menu-2:hover{
+    background-color: #00acee;
+    color: white;
+}
+.menu-3:hover{
+    background-color: #84154D ;
+    color: white;
+}
+.menu-4:hover{
+    background-color: #8768dd;
+    color: white;
+}
+.menu-5:hover{
+    background-color: #098346;
+    color: white;
+}
+.menu-6:hover{
+    background-color: #84154D;
+    color: white;
+}
+.menu-7:hover{
+    background-color: #00acee;
+    color: white;
+}
+.menu-8:hover{
+    background-color: #098346;
+    color: white;
+}
+.menu-9:hover{
+    background-color: #84154D;
+    color: white;
+}
+.menu-10:hover{
+    background-color: #1399BE;
+    color: white;
+}
+.menu-11:hover{
+    background-color: rgb(245, 33, 33);
+    color: white;
+}
