@@ -148,3 +148,17 @@ ul li a{
     background-color: rgb(245, 33, 33);
     color: white;
 }
+
+.total{
+    background-color: #331974;
+}
+
+@media only screen and (max-width:767px){
+    .school{
+        font-size: 12px;
+    }
+    .school img{
+        height: 40px;
+        width: 40px;
+    }
+}
