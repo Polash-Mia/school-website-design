@@ -39,6 +39,7 @@
     position: absolute;
     top: 35%;
     left: 5%;
+    font-size: 30px;
    
     z-index: 2;
     
@@ -153,12 +154,22 @@ ul li a{
     background-color: #331974;
 }
 
+.baner-image{
+    /* height: 300px; */
+    /* width: 1000px; */
+}
+
 @media only screen and (max-width:767px){
     .school{
-        font-size: 12px;
+        font-size: 16px;
     }
     .school img{
         height: 40px;
         width: 40px;
+    }
+
+    .baner-image{
+        /* height: 200px; */
+        /* width: 1000px; */
     }
 }
